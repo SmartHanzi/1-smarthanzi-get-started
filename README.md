@@ -1,3 +1,5 @@
 # smarthanzi-abc-start-here
 
-For a better view, select Repositories, sort by name.
+SmartHanzi blabla...
+
+For a better view of the whole thing, select Repositories, sort by name.
