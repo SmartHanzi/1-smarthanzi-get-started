@@ -20,6 +20,6 @@ The so called "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access: d
 
 5-smarthanzi-ios: build the iOS versions.
 
-6-smarthanzi-android: build the Android versionss.
+6-smarthanzi-android: build the Android versions.
 
 7-smarthanzi-lite: build SmartHanzi Lite (Safari extension for macOS)
