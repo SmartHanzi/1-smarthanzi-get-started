@@ -7,7 +7,7 @@ The so called "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access: d
 1-smarthanzi-start-here: START HERE!
 
 2-smarthanzi-windows:
-- WPF: build the main Windows version, NOT in Microsoft Store. This is the model for all other versions.
+- WPF: build the main Windows version (NOT in Microsoft Store). This is the model for all other versions.
 - UWP: Microsoft Store version.
 - Can't yet update data.
 
