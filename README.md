@@ -1,6 +1,8 @@
 # smarthanzi-start-here
 
-For a better view of the whole thing, select SmartHanzi > Repositories, sort by name.
+For a better view of the whole thing, select SmartHanzi > Repositories and sort by name.
+
+The "smarthanzi-xyz" repositories below are for SmartHanzi and DDB Access: these applications target different audiences but share a large part of the software.
 
 1-smarthanzi-start-here: start here!
 
