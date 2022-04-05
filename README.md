@@ -2,7 +2,7 @@
 
 For a better view of the whole thing, select SmartHanzi > Repositories and sort by name.
 
-The so called "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access: they target different audiences but their source code is largely shared.
+The so called "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access: different audiences but widely shared source code.
 
 1-smarthanzi-start-here: START HERE!
 
