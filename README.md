@@ -2,6 +2,8 @@
 
 The "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access. These applications have different audiences but share a large part of the source code. SmartHanzi for Kanjis is also included.
 
+The license for the applications is MIT license. The license for data is as specified in each source file.
+
 1-smarthanzi-start-here: START HERE!
 
 2-smarthanzi-windows:
