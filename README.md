@@ -1,4 +1,4 @@
-# smarthanzi-abc-start-here
+# smarthanzi-start-here
 
 SmartHanzi blabla...
 
