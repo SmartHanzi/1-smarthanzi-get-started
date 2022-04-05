@@ -25,3 +25,5 @@ The license for the applications is MIT license. The license for data is as spec
 6-smarthanzi-android: build the Android versions.
 
 7-smarthanzi-lite: build SmartHanzi Lite (Safari extension for macOS)
+
+8-chinese-bulk-parser: batch processing of multiple files (Chinese texts) to produce segmented texts (separate words) for use in various softwares.
