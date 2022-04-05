@@ -26,4 +26,4 @@ The license for the applications is MIT license. The license for data is as spec
 
 7-smarthanzi-lite: build SmartHanzi Lite (Safari extension for macOS)
 
-8-chinese-bulk-parser: batch processing of multiple files (Chinese texts) to produce segmented texts (separate words) for use in various softwares.
+8-chinese-bulk-parser: batch processing of multiple files to produce segmented texts (separate words) for use in various softwares.
