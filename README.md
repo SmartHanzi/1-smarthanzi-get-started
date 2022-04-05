@@ -1,6 +1,6 @@
 # smarthanzi-start-here
 
-The "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access: different audiences but widely shared source code. SmartHanzi for Kanjis is also included.
+The "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access. These applications have different audiences but share a large part of the source code. SmartHanzi for Kanjis is also included.
 
 1-smarthanzi-start-here: START HERE!
 
