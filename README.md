@@ -11,7 +11,7 @@ The license for the applications is MIT License. The license for data is as spec
 2-smarthanzi-windows:
 - WPF: build the main Windows versions (NOT in Microsoft Store). This is the model for all other versions.
 - UWP: Microsoft Store versions.
-- Can't yet update data.
+- Can't yet update data (see next step).
 
 3-smarthanzi-data:
 - Setup the MySQL DB.
