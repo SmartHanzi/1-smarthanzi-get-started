@@ -4,7 +4,7 @@ For a better view of the whole thing, select SmartHanzi > Repositories and sort 
 
 The so called "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access: they target different audiences but their source code is largely shared.
 
-1-smarthanzi-start-here: start here!
+1-smarthanzi-start-here: START HERE!
 
 2-smarthanzi-windows:
 - WPF: build the main Windows version, NOT in Microsoft Store. This is the model for all other versions.
