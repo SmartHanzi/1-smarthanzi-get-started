@@ -1,5 +1,7 @@
 # smarthanzi-start-here
 
+SmartHanzi is a free yet professional tool for students and anyone wishing to read real Chinese texts even with a limited level in Chinese. DDB Access provides access to DDB (Digital Dictionary of Buddhism) and CJKV-E (Chinese/Japanese/Korean/Vietnamese dictionary of Confucian, Daoist and historical terms) from various devices. SmartHanzi for Kanjis is derived from SmartHanzi, for Japanese context.
+
 The "smarthanzi-xyz" repositories are for SmartHanzi and DDB Access. These applications have different audiences but share a large part of the source code. SmartHanzi for Kanjis is also included.
 
 The license for the applications is MIT license. The license for data is as specified in each source file.
