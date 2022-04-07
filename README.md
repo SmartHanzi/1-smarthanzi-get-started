@@ -6,18 +6,18 @@ Website: www.smarthanzi.net
 
 The "smarthanzi-xyz" repositories are for SmartHanzi, DDB Access and SmartHanzi for Kanjis altogether. These applications have different audiences but share a large part of the source code.
 
-The license for the applications is MIT License. The license for data is as specified in each source file.
+All applications are under MIT License. The license for data is as specified in each source file.
 
 1-smarthanzi-start-here: START HERE!
 
 2-smarthanzi-windows:
-- WPF: build the main Windows versions (NOT in Microsoft Store). This is the model for all other versions.
+- WPF: build the main Windows versions of SmartHanzi and DDB Access (NOT in Microsoft Store). This is the model for all other versions.
 - UWP: Microsoft Store versions.
-- Can't yet update data (see next step).
+- Demo data.
 
 3-smarthanzi-data:
 - Setup the MySQL DB.
-- Update data from imported dictionary files.
+- Build application data from imported dictionary files.
 - Various data updates.
 
 4-smarthanzi-mac: build the macOS versions.
