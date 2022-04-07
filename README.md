@@ -29,3 +29,9 @@ All applications are under MIT License. The license for data is as specified in 
 7-smarthanzi-lite: SmartHanzi Lite is a Safari extension for macOS.
 
 8-chinese-bulk-parser: batch processing of multiple files to produce segmented texts (separate words) for use in various softwares.
+
+# SmartHanzi and DDB Access
+
+# Words
+
+# Characters
