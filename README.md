@@ -32,6 +32,6 @@ All applications are under MIT License. The license for data is as specified in 
 
 # SmartHanzi and DDB Access
 
-# Words
+# Words (parse and lookup)
 
 # Characters
