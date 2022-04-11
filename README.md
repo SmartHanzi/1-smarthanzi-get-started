@@ -12,13 +12,13 @@ All applications are under MIT License. The license for data is as specified in 
 
 2-smarthanzi-windows:
 - WPF: build the main Windows versions of SmartHanzi and DDB Access (NOT in Microsoft Store). This is the model for all other versions.
-- UWP: Microsoft Store versions.
+- UWP: Microsoft Store versions
 - Demo data.
 
 3-smarthanzi-admin:
 - Setup the MySQL DB.
 - Build application data from imported dictionary files.
-- Various data updates.
+- Import/build various reference data.
 
 4-smarthanzi-mac: build the macOS versions.
 
