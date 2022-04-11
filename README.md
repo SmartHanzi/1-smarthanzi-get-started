@@ -15,7 +15,7 @@ All applications are under MIT License. The license for data is as specified in 
 - UWP: Microsoft Store versions.
 - Demo data.
 
-3-smarthanzi-data:
+3-smarthanzi-admin:
 - Setup the MySQL DB.
 - Build application data from imported dictionary files.
 - Various data updates.
