@@ -17,8 +17,8 @@ All applications are under MIT License. The license for data is as specified in 
 
 3-smarthanzi-admin:
 - Setup the MySQL DB.
-- Build application data from imported dictionary files.
 - Import/build various reference data.
+- Build application data from imported dictionary files.
 
 4-smarthanzi-mac: build the macOS versions.
 
