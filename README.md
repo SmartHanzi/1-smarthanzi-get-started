@@ -1,6 +1,8 @@
 # smarthanzi-get-started
 
-SmartHanzi is a free yet professional tool for students and anyone wishing to read real Chinese texts even with a limited level in Chinese. DDB Access provides access to DDB (Digital Dictionary of Buddhism) and CJKV-E (Chinese / Japanese / Korean / Vietnamese dictionary of Confucian, Daoist and historical terms) from various devices. SmartHanzi for Kanjis derives from SmartHanzi, for Japanese context.
+SmartHanzi is a free yet professional tool for students and anyone wishing to read real Chinese texts even with a limited level in Chinese.
+DDB Access provides access to DDB (Digital Dictionary of Buddhism) and CJKV-E (Chinese / Japanese / Korean / Vietnamese dictionary of Confucian, Daoist and historical terms) from various devices.
+SmartHanzi for Kanjis derives from SmartHanzi, for Japanese context.
 
 Website: www.smarthanzi.net
 
