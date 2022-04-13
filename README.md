@@ -12,7 +12,7 @@ The "smarthanzi-xyz" repositories are for SmartHanzi, DDB Access and SmartHanzi 
 
 All applications are under MIT License. The license for data is as specified in each source file.
 
-1-smarthanzi-start-here: START HERE!
+1-smarthanzi-get-started: START HERE!
 
 2-smarthanzi-windows:
 - WPF: build the main Windows versions of SmartHanzi and DDB Access (NOT in Microsoft Store). This is the model for all other versions.
