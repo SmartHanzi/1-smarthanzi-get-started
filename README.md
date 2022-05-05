@@ -1,5 +1,7 @@
 # smarthanzi-get-started
 
+Warning: The decision to switch SmartHanzi to open source was made in April 2022. In order to make the software readable for a newcomer (especially cleanup the older parts), the current target is to have the main versions available before the end of this year.
+
 SmartHanzi is a free yet professional tool for students and anyone wishing to read real Chinese texts even with a limited level in Chinese.
 
 DDB Access provides access to DDB (Digital Dictionary of Buddhism) and CJKV-E (Chinese / Japanese / Korean / Vietnamese dictionary of Confucian, Daoist and historical terms) from various devices.
